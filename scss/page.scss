@@ -1,0 +1,30 @@
+.page {
+    width: 70%;
+    min-height: 800px;
+    margin: 0 auto;
+    background-color: #bc902d;
+    .box {
+        width: 50%;
+        height: 200px;
+        background-color: #017575;
+    }
+    .mediaBox {
+        width: 500px;
+        height: 100px;
+        background-color: #c63e38;
+    }
+}
+
+@media all and (max-width: 600px) {
+    .page {
+        .mediaBox {
+            width: 300px;
+        }
+    }
+}
+
+@media screen and (max-width: 1000px) and (min-width: 800px) {
+    .page {
+        background-color: #0c0d10;
+    }
+}
