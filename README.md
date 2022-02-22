@@ -1,8 +1,8 @@
 https://in-info-web4.informatics.iupui.edu/~quabrown/
 
-#Media Queries Test Project
+# Media Queries Test Project
 
-##This is an cool
+## This is an cool
 
 Lorem ipsum dolor sit, amet consectetur adipisicing elit. Aut eaque beatae nihil ratione, quasi
                 repudiandae enim, excepturi numquam facilis eveniet quibusdam deserunt repellat dolores illum. Unde
